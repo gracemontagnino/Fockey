@@ -1,6 +1,6 @@
 # Homepage  
 ## Insert Video like this!
-[![Satellite Map Interfacing](http://img.youtube.com/vi/-DHstD0oNrA/0.jpg)](http://www.youtube.com/watch?v=-DHstD0oNrA)
+[![Indian Dribble]](https://www.youtube.com/watch?v=-1vc94igXQo&feature=youtu.be)
 # Diagram
 # Analysis
 We are able to evalute the success of an Indian Dribble, by breaking it down into four components: speed, consistency, levelness, and accuracy of rotations. 
@@ -17,7 +17,7 @@ In our case, yaw measured how far off the line the stick went. To make your drib
 
 As shown by the graphs, the more subtle the curve, the better the score.
 ## Accurate Rotations
-words
+An ideal Indian Dribble takes the stick from a 90 degree angle, with the end of the stick pointing away from you, all the way around to a 270 degree angle, where the end of the stick is facing you.
 # Future Steps
 words
 # Source Code
