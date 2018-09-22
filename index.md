@@ -1,6 +1,6 @@
 # Homepage  
 ## Insert Video like this!
-[![Indian Dribble]](https://www.youtube.com/watch?v=-1vc94igXQo&feature=youtu.be)
+[![Indian Dribble](https://img.youtube.com/vi/1vc94igXQo&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=-1vc94igXQo&feature=youtu.be)
 # Diagram
 # Analysis
 We are able to evalute the success of an Indian Dribble, by breaking it down into four components: speed, consistency, levelness, and accuracy of rotations. 
