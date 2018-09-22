@@ -8,7 +8,7 @@ We are able to evalute the success of an Indian Dribble, by breaking it down int
 ## Speed
 A large indicator of how well this drill is done, is speed. The faster, the better. To get an idea of how fast you are doing the drill, we did some frequency analysis. Because the motion is repetitive, it has a frequency. To get a better understanding of someone's frequency throughout the drill, we performed the Fast Fourier Transformation (FFT). The FFT transfered the data into the frequency domain, plotting against magnitude, allowing us to deduce the main frequency components. To find the characteristic frequency of the motion, we normalized the data. We subtracted the frequency of the second highest peak, from the frequency of the highest peak (which centers near zero). This left us with the frequency at which the drill was completed. We then translated these frequencies to a scale of 1 to 10, to give users feedback on their speed.
 
-*Insert image of fft
+![](./grace_graph.png)
 *Insert metric
 
 *Insert image of FFt
