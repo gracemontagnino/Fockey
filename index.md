@@ -2,9 +2,20 @@
 ## Improving Field Hockey Drills one Sensor at a Time
 [![Indian Dribble](https://img.youtube.com/vi/-1vc94igXQo/0.jpg)](https://www.youtube.com/watch?v=-1vc94igXQo)
 # Diagram of Motion Model
-To start our analysis of the Indian Dribble, we made a motion diagram (shown below)
-![](./23.png)
+
+As seen in the video of our motion, a key component of the indian dribble is rotating the stick from pushing stick side to cross stick side.
 ![](./pic.png)
+Figure 1
+
+In order to capture and analyze this rotation, we affixed a cell phone to the stick to capture gyroscope data. The orientation of the phone and its axes are shown in Figure 2. 
+![](./GRACE'S PICTURE.png)
+
+During the turn from stick side to cross stick side pushing, the stick rotates around the x axis in a counter-clockwise roll as seen in the motion model in Figure 3. 
+![](./newmm1.png)
+
+When the player is turning from cross stick side back to stick side pushing, the stick rotates clockwise about the x axis until it is in the original position (see Figure 4).
+![](./newmm2.png
+
 # Analysis
 By breaking the Indian Dribble drill into four components: consistency, levelness, accuracy of rotations, and speed, we provide actionable feedback to users on improving their dribbling.  With feedback such as "your turn to cross stick is 20 degrees shallow" and "you tend to pull the ball at an angle, preventing your cross from being level", users can learn awareness of their weaknesses and improve upon them.  
 
