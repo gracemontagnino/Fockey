@@ -32,10 +32,10 @@ As shown by the graphs, the smaller change in the curve's amplitude, the better 
 ## Accurate Rotations
 As seen in the indian dribble motion model, an ideal drill rotates the stick from a 90 degree angle with the club pointed away from the player to a 270 degree angle with the club facing the player.  By looking at the roll data of our stick's motion, we are able to determine how closely a player comes to achieving these desired angles.  We then quantify the player's distance from these ideal angles by projecting them onto scales from one to ten that represent the room for improvement from none necessary to lots of required practice. 
 
-![](./grace_graph.png)
+![](./6.png)
 *Response 1
 
-![](./grace_graph.png)
+![](./7.png)
 *Response 2
 
 ## Speed
