@@ -66,7 +66,4 @@ In sample 1, you can see that the difference between the two peaks is greater th
 If we were to continue pursuing this idea, the next step would be to work on making a user interface. Right now, one would have to load their data into matlab, and run the functions from there. In the future, we would love for field hockey players to be able to record the data on their phone, and get feedback, all in the same app.
 
 # Source Code
-```markdown
-Syntax highlighted code block
-```
-[Link](url) and ![Image](src)
+All code for this project can be found at this [link](https://github.com/gracemontagnino/Fockey/tree/master/project)
