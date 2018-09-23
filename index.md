@@ -20,10 +20,12 @@ However, in this next image, the periods all look to be about the same length, m
 Another key aspect of the indian dribble is carrying the ball in a straight and level line during each cycle.  Based on our sensor placement, our measurement of the change in yaw shows how far one deviates from this straight line.  While some motion here is necessary to flip the stick, as seen in the sinusioidal shape of yaw's measurement over time, ideally movement in this direction should be minimized and the sinusoidal curve should be quite subtle.  In order to quantify this difference, we found the change in yaw by subtracting the peaks and valleys of the yaw measurements and projected the differences into a scale from ideal (10) to needing the most improvement (1).  
 
 The small change in amplitude seen here represents a good, level drill. On our scale, this sample got a score of SCORE, reflecting our analysis of a level drill. 
+
 ![](./3.png)
 *Insert score of yaw 1
 
 The change in amplitude in this sample is larger and thus a less level drill. With a score of SCORE, this sample shows room for improvement. 
+
 ![](./4.png)
 *Insert score of yaw bad
 
