@@ -17,7 +17,7 @@ During the turn from stick side to cross stick side pushing, the stick rotates a
 
 When the player is turning from cross stick side back to stick side pushing, the stick rotates clockwise about the x axis until it is in the original position.
 
-![](./newmm2.png)
+![](./last.png)
 
 # Analysis
 By breaking the Indian Dribble drill into four components: consistency, levelness, accuracy of rotations, and speed, we provide actionable feedback to users on improving their dribbling.  With feedback such as "your turn to cross stick is 20 degrees shallow" and "you tend to pull the ball at an angle, preventing your cross from being level", users can learn awareness of their weaknesses and improve upon them.  
