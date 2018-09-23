@@ -4,6 +4,7 @@
 # Diagram of Motion Model
 To start our analysis of the Indian Dribble, we made a motion diagram (shown below)
 ![](./23.png)
+![](./pic.png)
 # Analysis
 By breaking the Indian Dribble drill into four components: consistency, levelness, accuracy of rotations, and speed, we provide actionable feedback to users on improving their dribbling.  With feedback such as "your turn to cross stick is 20 degrees shallow" and "you tend to pull the ball at an angle, preventing your cross from being level", users can learn awareness of their weaknesses and improve upon them.  
 
