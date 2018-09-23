@@ -6,13 +6,13 @@
 By breaking the Indian Dribble drill into four components: consistency, levelness, accuracy of rotations, and speed, we provide actionable feedback to users on improving their dribbling.  With feedback such as "your turn to cross stick is 20 degrees shallow" and "you tend to pull the ball at an angle, preventing your cross from being level", users can learn awareness of their weaknesses and improve upon them.  
 
 ## Consistency
-Many field hockey players practice the indian dribble to improve their general stick skills.  Part of this is maintaining a consistent push and pull within the drill. Taking varying times to complete a cycle, indicates a lack of comfort with the push, pull or switch between the two.  This inconsistency can be seen visually by looking at the relative period sizes for each cycle.  If all periods are roughly the same size, the player was consistent; however, if the periods vary in size, the player should slow down and look at each component of their drill.   
+Many field hockey players practice the indian dribble to improve their general stick skills.  Part of this is maintaining a consistent push and pull within the drill. Taking varying times to complete a cycle, indicates a lack of comfort with the push, pull or switch between the two.  This inconsistency can be seen visually by looking at the relative period sizes for each cycle in both roll and yaw rotations.  If all periods are roughly the same size, the player was consistent; however, if the periods vary in size, the player should slow down and look at each component of their drill.   
 
-Note in the graph below that the periodic motion has varying period lengths, indicating an inconsistent dribble.
+Note in the graph below that the sinusoidal motions for this sample has varying period lengths, indicating an inconsistent dribble.
 ![](./1.png)
 *Insert metric
 
-However, in this next image, the periods all look to be about the same length, meaning the dribble was fairly consistent.
+However, in this next plot, the periods look to be about the same length, meaning the dribble was fairly consistent.
 ![](./2.png)
 *Insert metric
 
