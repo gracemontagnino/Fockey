@@ -13,7 +13,7 @@ In order to capture and analyze this rotation, we affixed a cell phone to the st
 
 During the turn from stick side to cross stick side pushing, the stick rotates around the x axis in a counter-clockwise roll as shown in the figure below. 
 
-![](./newmm1.png)
+![](./stick.png)
 
 When the player is turning from cross stick side back to stick side pushing, the stick rotates clockwise about the x axis until it is in the original position.
 
