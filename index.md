@@ -43,9 +43,8 @@ As seen in the indian dribble motion model, an ideal drill rotates the stick fro
 ## Speed
 Once a player is satisfied with the other components of their indian dribble, they can attempt to maximize their speed while not compromizing their sucess with the other components.  Maintaining a fast speed and consistency, levelness, and accurate rotations demonstrates mastry of the indian dribble drill.  To get an idea of how fast a player is doing the drill, we did some frequency analysis.  Because the motion is repetitive, it has a frequency. To get a better understanding of someone's frequency throughout the drill, we performed the Fast Fourier Transformation (FFT). The FFT transfered the data into the frequency domain, plotting against magnitude, allowing us to deduce the main frequency components. To find the characteristic frequency of the motion, we normalized the data, subtracting the frequency of the second highest peak, from the frequency of the highest peak (which centers near zero). This left us with the frequency at which the drill was completed. We then translated these frequencies to a scale of 1 to 10, to give users feedback on their speed.
 
+In sample 1, you can see that the difference between the two peaks is greater than in sample two. Thus indicating that in sample 1 the drill is being completed faster. Sample 1 recieved a score of SCORE, while smaple 2 recieved a score of SCORE.
 ![](./5.png)
-*Insert metric
-
 
 # Future Steps
 If we were to continue pursuing this idea, the next step would be to work on making a user interface. Right now, one would have to load their data into matlab, and run the functions from there. In the future, we would love for field hockey players to be able to record the data on their phone, and get feedback, all in the same app.
