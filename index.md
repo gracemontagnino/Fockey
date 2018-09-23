@@ -1,6 +1,6 @@
 # Indian Dribble Assistant
 ## Improving Field Hockey Drills one Sensor at a Time
-[![Indian Dribble](https://img.youtube.com/vi/J95l8xNy8fw/0.jpg)](https://www.youtube.com/watch?v=J95l8xNy8fw)
+[![Indian Dribble](https://img.youtube.com/vi/-1vc94igXQo/0.jpg)](https://www.youtube.com/watch?v=-1vc94igXQo)
 # Diagram of Motion Model 
 # Analysis
 By breaking the Indian Dribble drill into four components: consistency, levelness, accuracy of rotations, and speed, we provide actionable feedback to users on improving their dribbling.  With feedback such as "your turn to cross stick is 20 degrees shallow" and "you tend to pull the ball at an angle, preventing your cross from being level", users can learn awareness of their weaknesses and improve upon them.  
