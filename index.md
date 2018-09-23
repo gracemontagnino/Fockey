@@ -8,13 +8,16 @@ As seen in the video of our motion, a key component of the indian dribble is rot
 
 
 In order to capture and analyze this rotation, we affixed a cell phone to the stick to capture gyroscope data. The orientation of the phone and its axes are shown in Figure 2. 
+
 ![](./Capture.PNG)
 
-During the turn from stick side to cross stick side pushing, the stick rotates around the x axis in a counter-clockwise roll as seen in the motion model in Figure 3. 
+During the turn from stick side to cross stick side pushing, the stick rotates around the x axis in a counter-clockwise roll as shown in the figure below. 
+
 ![](./newmm1.png)
 
-When the player is turning from cross stick side back to stick side pushing, the stick rotates clockwise about the x axis until it is in the original position (see Figure 4).
-![](./newmm2.png
+When the player is turning from cross stick side back to stick side pushing, the stick rotates clockwise about the x axis until it is in the original position.
+
+![](./newmm2.png)
 
 # Analysis
 By breaking the Indian Dribble drill into four components: consistency, levelness, accuracy of rotations, and speed, we provide actionable feedback to users on improving their dribbling.  With feedback such as "your turn to cross stick is 20 degrees shallow" and "you tend to pull the ball at an angle, preventing your cross from being level", users can learn awareness of their weaknesses and improve upon them.  
