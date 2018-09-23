@@ -8,7 +8,7 @@ As seen in the video of our motion, a key component of the indian dribble is rot
 
 
 In order to capture and analyze this rotation, we affixed a cell phone to the stick to capture gyroscope data. The orientation of the phone and its axes are shown in Figure 2. 
-![](./capture.png)
+![](./Capture.PNG)
 
 During the turn from stick side to cross stick side pushing, the stick rotates around the x axis in a counter-clockwise roll as seen in the motion model in Figure 3. 
 ![](./newmm1.png)
